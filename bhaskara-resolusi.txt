@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Bhaskara. Dari Jakarta.
+
+Resolusi saya:
+- Membuat website menggunakan framework javascript (React JS & Backend JS)
+- Bekerja sebagai frontend/software engineer
